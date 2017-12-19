@@ -1,4 +1,4 @@
-# CS2336---Lab1
+# CS2336-Lab1
 
 Sam Speece - sds160130
 August 31, 2016
