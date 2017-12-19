@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1474325881 source:c:\users\bball\desktop\cs 2336\project_1 - tiefighters\tiefighters.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<fstream>
+
+1474558256 source:c:\users\bball\desktop\cs 2336\project 1 - tiefighters\tiefighters.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<fstream>
+
